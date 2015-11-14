@@ -1,10 +1,3 @@
-# v-chill
+# v-jeb
 
-A really, really useless Chrome Extension that makes your browser SO CHILL. 95% experimenting with Chrome, 5% a bad joke.
-
-##### Features, such as they are:
-1. All text is lowercase.
-2. Unchill words are replaced with chill counterparts. `very` becomes `v`, for instance.
-3. Actually that's it. Just those two.
-
-Enable and disable from `chrome://extensions`.
+Forked from <a href="">Kevin McVey</a>'s v-chill repo, which contains a Chrome extension that converts all text to lowercase and replaces "unchill words" with "chill counterparts" (e.g., `very` becomes `v`), v-jeb adds another feature to the extension: `Jeb` and `Jeb Bush` are replaced by the more exciting `Jeb!`
