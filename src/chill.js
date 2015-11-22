@@ -40,7 +40,9 @@ function makeNodeChill(node) {
         textContent = textContent.replace(/god damn/g, 'gd');
         textContent = textContent.replace(/point/g, 'fleek');
         textContent = textContent.replace(/jeb/g, 'JEB!');
-        textContent = textContent.replace(/jeb bush/g, 'JEB!');
+        textContent = textContent.replace(/JEB! bush/g, 'JEB!');
+        textContent = textContent.replace(/and/g, '+');
+        textContent = textContent.replace(/\!\./g, '!');
 
         node.textContent = textContent;
     }
